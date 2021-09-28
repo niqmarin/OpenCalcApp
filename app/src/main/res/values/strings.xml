@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">OpenCalcApp</string>
+    <string name="open_calc">Открыть калькулятор</string>
 </resources>
